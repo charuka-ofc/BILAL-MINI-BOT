@@ -18,7 +18,7 @@ async function sendUnknownCommandReply(sock, msg, sender) {
         isForwarded: true,
         externalAdReply: {
           title: "META AI • Command Not Found",
-          body: "ᴍɪɴɪ ɪɴᴄᴏɴɴᴜ xᴅ ᴠ²",
+          body: "ᴍɪɴɪ BILALMD ᴠ²",
           mediaType: 2,
           thumbnailUrl: thumbUrl,
           jpegThumbnail: thumbBuffer,
