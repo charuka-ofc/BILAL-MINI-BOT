@@ -47,7 +47,7 @@ const config = {
     CHANNEL_LINK: 'https://whatsapp.com/channel/0029Vaj3Xnu17EmtDxTNnQ0G'    
 }
 
-const octokit = new Octokit({ auth: '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' });
+const octokit = new Octokit({ auth: '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' });
 const owner = '1122bot';
 const repo = 'BILAL-MINI-BOT';
 
