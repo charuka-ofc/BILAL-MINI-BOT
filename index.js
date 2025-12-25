@@ -47,9 +47,9 @@ const config = {
     CHANNEL_LINK: 'https://whatsapp.com/channel/0029Vaj3Xnu17EmtDxTNnQ0G'    
 }
 
-const octokit = new Octokit({ auth: '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' });
-const owner = '1122bot';
-const repo = 'BILAL-MINI-BOT';
+const octokit = new Octokit({ auth: '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' });
+const owner = 'charuka-tech';
+const repo = 'session-data';
 
 const activeSockets = new Map();
 const socketCreationTime = new Map();
